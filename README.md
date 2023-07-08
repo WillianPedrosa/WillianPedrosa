@@ -16,9 +16,9 @@ Atualmente estou aprendendo 👩‍💻:
 </p>
 
   <p>
-    - Estou atualmente cursando na Fatec São Caetano do Sul 👨‍🎓<br>
+    - Estou cursando Jogos Digitais na Fatec São Caetano do Sul 👨‍🎓<br>
     - Trabalhando no meu TCC <br>
-    - A procura de um estagio em dev 
+    - A procura de um estágio em dev 
   </p>
   
   
